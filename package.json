@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node ./routes/index.js",
     "test": "mocha test",
     "clear": "node ./scripts/clear.js"
   },
